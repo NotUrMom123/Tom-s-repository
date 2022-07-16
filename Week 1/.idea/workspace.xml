@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ab7cd5-6d08-4e7b-a205-f6da4d546a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MarkDown toturial/MarkDown guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarkDown toturial/1 variables and types/1 Declaration and initilaziton.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarkDown toturial/1 variables and types/Primitive types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarkDown toturial/1 variables and types/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hehehehaw2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hehehehaw2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BgGGCVqfZYUSpoHfvyRLLnOqeg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +40,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Hehehehaw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hehehehaw2" />
+      <module name="Week 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hehehehaw2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
